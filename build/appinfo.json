@@ -1,0 +1,30 @@
+{
+    "targetPlatforms": [
+        "aplite", 
+        "basalt", 
+        "chalk", 
+        "diorite"
+    ], 
+    "displayName": "metrorf", 
+    "name": "metrorf", 
+    "messageKeys": {
+        "dummy": 10000
+    }, 
+    "companyName": "MakeAwesomeHappen", 
+    "enableMultiJS": true, 
+    "versionLabel": "1.0", 
+    "capabilities": [], 
+    "sdkVersion": "3", 
+    "appKeys": {
+        "dummy": 10000
+    }, 
+    "longName": "metrorf", 
+    "shortName": "metrorf", 
+    "watchapp": {
+        "watchface": false
+    }, 
+    "resources": {
+        "media": []
+    }, 
+    "uuid": "94949774-8914-4e29-9091-308809f3266e"
+}
